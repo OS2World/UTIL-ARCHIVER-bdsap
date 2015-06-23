@@ -1,0 +1,5 @@
+@ECHO OFF
+CD ASM
+CALL _
+CD ..
+CALL __

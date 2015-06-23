@@ -1,0 +1,12 @@
+org 0100
+                        mov ah,009
+                        mov dx,titel
+                        int 021
+                        mov ah,008
+                        int 021
+                        mov ax,04c00
+                        int 021
+
+titel:			db 'BDSAP/V.K. * OS/2 !',13,10
+			db '$'
+even 010

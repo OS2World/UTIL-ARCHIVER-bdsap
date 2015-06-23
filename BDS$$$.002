@@ -1,0 +1,11 @@
+(* nicht editieren ! *)
+var
+  sprach_start:longint;
+  textz_packe_datei  :^string;
+  textz_hilfe  :^string;
+  textz_keine_dateine_gefunden  :^string;
+  textz_Erzeuge_Programm  :^string;
+  textz_Binde_gepackte_Resourcen  :^string;
+  textz_Loesche_temporaere_Dateien  :^string;
+  textz_sprache  :^string;
+  textz_merke_verzeichnis  :^string;
